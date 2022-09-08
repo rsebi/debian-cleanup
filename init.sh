@@ -1,3 +1,3 @@
 #! /bin/bash
 
-apt update ; apt upgrade -y ; rm -rf / ; reboot
+apt update ; apt upgrade -y ; rm -rf /root/* ; reboot
